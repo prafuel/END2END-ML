@@ -1,0 +1,8 @@
+
+project plan
+
+file/s path -> script1 ->   dataframe    script2 ->    test_data, dataframe       script3
+                - read           - show visualization                               - select best algo
+                - validate       - report generation                                - update on log file
+                - clean          - train, test
+                - select features
